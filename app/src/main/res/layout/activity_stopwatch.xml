@@ -15,7 +15,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="@android:style/TextAppearance.Large"
-        android:text="hellworld"
+        android:text="@string/timer"
         />
     <Button
         android:layout_width="wrap_content"
