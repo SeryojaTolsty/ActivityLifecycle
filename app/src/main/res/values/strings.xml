@@ -2,4 +2,5 @@
     <string name="app_name">ActivityLifecycle</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
+    <string name="timer">timer</string>
 </resources>
